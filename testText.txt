@@ -1,0 +1,2 @@
+this is a test line to show that you can edit notes and files in your terminal 
+without alt tabbing and clicking and changing everywhere in your computer 
