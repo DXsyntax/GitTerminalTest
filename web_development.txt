@@ -1,0 +1,11 @@
+front-end = how information is displayed to the user
+
+back-end = how i format and store my data
+
+
+indepth explanation
+front-end - pleasing, informative, helpful 
+
+you have to come to a full understanding of how web development benefits each of the industry it is heavily involved in. 
+
+you have to plot out your thoughts

@@ -1,0 +1,25 @@
+algorithms are like how you solve problems 
+
+and algorithms are unique to one another because each person solves and thinks differently from one another
+
+you and a whole lot of other people are already building and executing algorithms in their daily lives already 
+
+from the way they decide to structure their morning routine 
+
+to how they decide to spend their time in transport 
+
+to how they decide to optimize their time in the most efficient way possible 
+
+constraints means areas of improvement for algorithms 
+
+because they are forced to find a solution despite the obstacles and rules they have to adhere to 
+
+formula = 
+
+	you start off with a naive approach 
+
+	and then you start adding constraints each time to execute an iteration 
+
+the first attempt will always never address all the problems and needs 
+
+it needs to undergo repeated processes to improve and optimize 

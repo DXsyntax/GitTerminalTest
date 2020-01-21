@@ -1,0 +1,3 @@
+
+to release active lock . use rm.git/index.lock 
+
