@@ -1,0 +1,9 @@
+WHAT ARE MULTIPLE USE CASES IN sdlc
+- able to immediately apply this to bmdp app dev & patrick's deployment program 
+
+how can i make this more interactive? 
+
+1. after reading it. set milestone questions for myself. like 
+- explain what are requirements of a project in sdlc 
+- name 2 ways i can apply this to my projects or smth i like 
+
