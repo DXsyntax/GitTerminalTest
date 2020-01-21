@@ -7,3 +7,10 @@ how can i make this more interactive?
 - explain what are requirements of a project in sdlc 
 - name 2 ways i can apply this to my projects or smth i like 
 
+objective outlined for chapter 1 
+
+1. basic understanding of SDLC phases individually 
+
+2. basic understanding of the different SLDC methods 
+
+3. 
